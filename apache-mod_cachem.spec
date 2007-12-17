@@ -20,7 +20,6 @@ Requires:	apache-conf >= 2.2.0
 Requires:	apache >= 2.2.0
 BuildRequires:	apache-devel >= 2.2.0
 BuildRequires:	apr-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 A shared memory support module.
