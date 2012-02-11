@@ -6,7 +6,7 @@
 Summary:	A shared memory support module
 Name:		apache-%{mod_name}
 Version:	0.2
-Release:	%mkrel 9
+Release:	%mkrel 10
 Group:		System/Servers
 License:	GPL
 URL:		http://cachem.sourceforge.net/
