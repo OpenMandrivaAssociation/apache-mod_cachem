@@ -9,7 +9,7 @@ Version:	0.2
 Release:	%mkrel 10
 Group:		System/Servers
 License:	GPL
-URL:		http://cachem.sourceforge.net/
+URL:		https://cachem.sourceforge.net/
 Source0:	apache2-%{mod_name}-%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
